@@ -1,0 +1,1 @@
+(print(CDR(CAR(CDR'((HEIGHT 72) (WEIGHT 175) (HAIR BLOND))))))

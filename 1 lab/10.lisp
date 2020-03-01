@@ -1,0 +1,1 @@
+(print(CONS 'a (CONS (CONS 'b (CONS 'c ())) (CONS 'd ()))))

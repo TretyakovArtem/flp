@@ -1,0 +1,1 @@
+(print(CADDR'(1 2 goal 3 4)))

@@ -1,0 +1,1 @@
+(print(CONS(CAR'(A B C)) (CDR'(X Y Z))))
